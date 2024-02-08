@@ -1,5 +1,5 @@
 ###  °  Olá! Eu Sou Geovanni Santos 👋
-### ° Desenvolvedor FullStack (Node.js e React). 💻
+### ° Desenvolvedor FullStack Júnior (Node.js e React). 💻
 
 
 
