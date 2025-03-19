@@ -1,5 +1,5 @@
 ###  °  Prazer! Sou Geovanni F Santos 👋
-### ° Desenvolvedor Júnior (Node.js e Java). 💻
+### ° Desenvolvedor Júnior (Node.js). 💻
 
 
 
